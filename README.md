@@ -1,2 +1,2 @@
-# sysadmin
+# SysAdmin
 My personal scripts
